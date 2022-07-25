@@ -1,12 +1,12 @@
-\name{demogRse-package}
-\alias{demogRse-package}
-\alias{demogRse}
+\name{stopa-package}
+\alias{stopa-package}
+\alias{stopa}
 \docType{package}
 \title{
-To patch Tuljapurkar et al.'s elasticities of lambdaS into demogR
+STOchastic Perturbation Analysis
 }
 \description{
-To patch Tuljapurkar et al.'s elasticities of lambdaS into demogR; generate Markov chains to describe random environments, project populations through these environments and calculate multiple elasticities of long-run stochastic growth (lambdaS).  These functions are based upon MATLAB code developed by Horvitz, Haridas and Tuljapurkar during that period.
+To generate Markov chains to describe random environments, project populations through these environments and calculate multiple elasticities of long-run stochastic growth (lambdaS).  These functions are based upon MATLAB code developed by Horvitz, Haridas and Tuljapurkar during that period.
 }
 \details{
 
@@ -21,19 +21,17 @@ LazyLoad: \tab yes\cr
 }
 
 \author{
-Thomas H.G. Ezard, Carol C. Horvitz, C.V. Haridas and S. Tuljapurkar.
+Thomas H.G. Ezard
 
-Correspondence: Thomas Ezard <thomas.ezard@imperial.ac.uk>
+Correspondence: Thomas Ezard <t.ezard@soton.ac.uk>
 }
 
 \references{
 If you use these functions, it'd be really great if you'd cite either:
 
-Ezard, T. H. G., J.-M. Gaillard, M. J. Crawley, and T. Coulson. 2008. Habitat dependence and correlations between elasticities of long-term growth rates. American Naturalist, 172: 424-430.
-
-or
-
-Ezard, T. H. G., and T. Coulson. in resubmission. How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? 
+Ezard, T. H. G., J.-M. Gaillard, M. J. Crawley, and T. Coulson. 2008. Habitat dependence and correlations between elasticities of long-term growth rates. American Naturalist 172, 424.
+and/or
+Ezard, T. H. G., and T. Coulson. 2010. How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? Ecological Modelling 221, 191.
 
 
 The theory was developed in the following manuscripts:
