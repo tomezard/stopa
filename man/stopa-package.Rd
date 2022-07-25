@@ -13,8 +13,8 @@ To generate Markov chains to describe random environments, project populations t
 \tabular{ll}{
 Package: \tab demogRse\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2009-06-08\cr
+Version: \tab 1.0-12\cr
+Date: \tab 2022-07-25\cr
 License: \tab GPL (>= 2)\cr
 LazyLoad: \tab yes\cr
 }
@@ -30,7 +30,9 @@ Correspondence: Thomas Ezard <t.ezard@soton.ac.uk>
 If you use these functions, it'd be really great if you'd cite either:
 
 Ezard, T. H. G., J.-M. Gaillard, M. J. Crawley, and T. Coulson. 2008. Habitat dependence and correlations between elasticities of long-term growth rates. American Naturalist 172, 424.
+
 and/or
+
 Ezard, T. H. G., and T. Coulson. 2010. How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? Ecological Modelling 221, 191.
 
 
