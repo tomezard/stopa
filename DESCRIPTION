@@ -1,12 +1,10 @@
-Package: demogRse
+Package: stopa
 Type: Package
-Title: To patch Tulja et al.'s elasticities of lambdaS into demogR
-Version: 1.0-11
-Date: 2011-02-01
-Author: Thomas H.G. Ezard, Carol C. Horvitz, C.V. Haridas and S. Tuljapurkar.
-Maintainer: Thomas Ezard <t.ezard@surrey.ac.uk>
-Description: To patch Tulja et al.'s elasticities of lambdaS into demogR; generate Markov chains to describe random environments, project populations through these environments and calculate multiple elasticities of long-run stochastic growth (lambdaS)
+Title: STOchastic Pertubation Analysis
+Version: 1.0-12
+Author: Thomas H.G. Ezard
+Maintainer: Thomas Ezard <t.ezard@soton.ac.uk>
+Description: To generate Markov chains to describe random environments, project populations through these environments and calculate multiple elasticities of long-run stochastic growth (lambdaS)
 License: GPL (>= 2)
-Depends: R (>= 2.10.0)
-LazyLoad: yes
-Packaged: 2012-05-10 09:23:04 UTC; thge
+Encoding: UTF-8
+Depends: R (>= 4.0.1)
