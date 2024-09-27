@@ -3,7 +3,8 @@
 \alias{eigen.analysis}
 \title{Calculate elasticities of long-run stochastic growth.}
 \description{
-Performs an elasticity analysis of long-run stochastic growth \code{lambdaS} against various descriptors of demographic rate distributions.}
+Performs an elasticity analysis of long-run stochastic growth \code{lambdaS} against various descriptors of demographic rate distributions.
+}
 \usage{
 stochPerturb(simltn)
 }
@@ -42,8 +43,7 @@ Ezard, T. H. G., J.-M. Gaillard, M. J. Crawley, and T. Coulson. 2008. Habitat de
 
 or
 
-Ezard, T. H. G., and T. Coulson. in resubmission. How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? 
-
+Ezard, T.H.G. & Coulson, T. (2010). How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? Ecol. Model. 221, 191.
 
 The theory was developed in the following manuscripts:
 
