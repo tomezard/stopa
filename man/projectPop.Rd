@@ -3,7 +3,8 @@
 
 \title{Project a population forward.}
 \description{
-Project a population forward in time based on a sequence of environmental states with corresponding demographic rates.}
+Project a population forward in time based on a sequence of environmental states with corresponding demographic rates.
+}
 
 \usage{
 projectPop(demogT, envtlT, sts=NULL, tS = 100000, tT = 10000)
@@ -43,7 +44,7 @@ Ezard, T. H. G., J.-M. Gaillard, M. J. Crawley, and T. Coulson. 2008. Habitat de
 
 or
 
-Ezard, T. H. G., and T. Coulson. in resubmission. How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? 
+Ezard, T.H.G. & Coulson, T. (2010). How sensitive are elasticities of long-run stochastic growth to how environmental variability is modelled? Ecol. Model. 221, 191.
 
 
 The theory was developed in the following manuscripts:
